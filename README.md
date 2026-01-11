@@ -1,0 +1,44 @@
+# voicevox-vvm-sample
+
+## クレジット
+
+- VOICEVOX:四国めたん
+- VOICEVOX:ずんだもん
+- VOICEVOX:春日部つむぎ
+- VOICEVOX:波音リツ
+- VOICEVOX:雨晴はう
+- VOICEVOX:玄野武宏
+- VOICEVOX:白上虎太郎
+- VOICEVOX:青山龍星
+- VOICEVOX:冥鳴ひまり
+- VOICEVOX:九州そら
+- VOICEVOX:もち子(cv 明日葉よもぎ)
+- VOICEVOX:剣崎雌雄
+- VOICEVOX:WhiteCUL
+- VOICEVOX:後鬼
+- VOICEVOX:No.7
+- VOICEVOX:ちび式じい
+- VOICEVOX:櫻歌ミコ
+- VOICEVOX:小夜/SAYO
+- VOICEVOX:ナースロボ＿タイプＴ
+- VOICEVOX:†聖騎士 紅桜†
+- VOICEVOX:雀松朱司
+- VOICEVOX:麒ヶ島宗麟
+- VOICEVOX:春歌ナナ
+- VOICEVOX:猫使アル
+- VOICEVOX:猫使ビィ
+- VOICEVOX:中国うさぎ
+- VOICEVOX:栗田まろん
+- VOICEVOX:あいえるたん
+- VOICEVOX:満別花丸
+- VOICEVOX:琴詠ニア
+- VOICEVOX:Voidoll(CV:丹下桜)
+- VOICEVOX:ぞん子
+- VOICEVOX:中部つるぎ
+- VOICEVOX:離途
+- VOICEVOX:黒沢冴白
+- VOICEVOX:ユーレイちゃん
+- VOICEVOX:東北ずん子
+- VOICEVOX:東北きりたん
+- VOICEVOX:東北イタコ
+- VOICEVOX:あんこもん
